@@ -50,3 +50,6 @@
 !*/
 
 ui/.env.local
+
+!scripts/*
+!.release-please*
